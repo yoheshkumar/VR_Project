@@ -42,10 +42,6 @@ The project also includes assessment features that enable educators to monitor s
 #### Output2 - Liquid Pouring Simulation
 ![image](https://github.com/user-attachments/assets/6a6c0090-e1ee-4a44-9ff1-00a340eba04b)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
-
-
 ## Results and Impact
 
 The VR Chemistry Lab project significantly enhances the learning experience for students by providing an immersive and interactive platform for exploring complex chemical reactions. By utilizing cutting-edge virtual reality technology, the project fosters deeper engagement with chemistry concepts that are often overlooked in traditional educational settings.
