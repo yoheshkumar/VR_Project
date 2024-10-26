@@ -41,7 +41,7 @@ The project also includes assessment features that enable educators to monitor s
 ![Screenshot 2024-10-03 234019](https://github.com/user-attachments/assets/4bf17afa-4381-4e84-a3f2-e8267db5708e)
 #### Output2 - Liquid Pouring Simulation
 ![image](https://github.com/user-attachments/assets/6a6c0090-e1ee-4a44-9ff1-00a340eba04b)
-#### Output2 - 
+#### Output2 - Colour changing reaction
 ![Screenshot 2024-10-26 152816](https://github.com/user-attachments/assets/e7a0f937-45a1-4354-b5a1-8e55601c43c1)
 ![Screenshot 2024-10-26 153149](https://github.com/user-attachments/assets/43a8bf0a-53ed-49d9-8acb-d68f0070ec99)
 
