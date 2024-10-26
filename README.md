@@ -32,7 +32,7 @@ The project also includes assessment features that enable educators to monitor s
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Screenshot 2024-10-26 214402](https://github.com/user-attachments/assets/24e15bf6-4f12-49c3-9fb8-dad1b9099f04)
 
 
 ## Output
